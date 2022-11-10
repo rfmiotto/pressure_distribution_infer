@@ -1,0 +1,6 @@
+*/
+!figures/
+*.csv
+*.pdf
+*.pgf
+*.npy
